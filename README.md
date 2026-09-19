@@ -1,1 +1,1 @@
-# Bus-Reservation-System
+Bus Reservation using Java and OOPs
